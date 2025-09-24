@@ -85,7 +85,7 @@ Geltner, David M., Norman G. Miller, Jim Clayton, and Piet Eichholtz. _Commercia
 
 ### Argus
 
-Students will be required to buy a student version of the [Argus](http://www.argussoftware.com/) real estate analysis software.
+Students will be required to buy a student version of the {{% resource_link "80312db6-1ee0-4c4c-b2b3-6f41b99aa13a" "Argus" %}} real estate analysis software.
 
 ### Calculator
 
