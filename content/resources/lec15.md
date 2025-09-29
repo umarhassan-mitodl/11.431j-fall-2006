@@ -5,6 +5,8 @@ description: Lecture slides about economic analysis of investment in real estate
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/77580d68a60221e862fbbc699cd7227b_lec15.pdf
 file_size: 195567
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

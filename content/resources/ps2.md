@@ -4,6 +4,8 @@ description: Problem set.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/6a880c6270e6579be09c8bd516bce5fd_ps2.pdf
 file_size: 31034
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

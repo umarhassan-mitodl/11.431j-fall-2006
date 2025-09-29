@@ -5,6 +5,8 @@ description: Lecture slides about the real options model of land value and devel
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/1e7b623b432891977e9f35935dda0976_lec23.pdf
 file_size: 585167
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

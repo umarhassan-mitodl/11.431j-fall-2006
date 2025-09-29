@@ -4,6 +4,8 @@ description: 'Case Assignment 2: Private Practice II.'
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/13c000b5214ddb11b1b959ac1fa6cae0_case2.pdf
 file_size: 339445
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

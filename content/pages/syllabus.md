@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and objectives,
   and information about meeting times, administration, recitations, grading, and required
   materials.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -85,7 +87,7 @@ Geltner, David M., Norman G. Miller, Jim Clayton, and Piet Eichholtz. _Commercia
 
 ### Argus
 
-Students will be required to buy a student version of the {{% resource_link "80312db6-1ee0-4c4c-b2b3-6f41b99aa13a" "Argus" %}} real estate analysis software.
+Students will be required to buy a student version of the [Argus](http://www.argussoftware.com/) real estate analysis software.
 
 ### Calculator
 

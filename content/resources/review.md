@@ -4,6 +4,8 @@ description: Exam review slides.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/2838ebde793cb3639c54b883caed037b_review.pdf
 file_size: 96918
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

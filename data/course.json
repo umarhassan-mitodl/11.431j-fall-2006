@@ -27,6 +27,7 @@
     "website": "11-431j-real-estate-finance-and-investment-fall-2006"
   },
   "course_title": "Real Estate Finance and Investment",
+  "hide_download": true,
   "course_description": "This course is an introduction to the most fundamental concepts, principles, analytical methods and tools useful for making investment and finance decisions regarding commercial real estate assets. As the first of a two-course sequence, this course will focus on the basic building blocks and the \"micro\" level, which pertains to individual properties and deals.\n",
   "department_numbers": [
     "11",
@@ -38,6 +39,7 @@
     "content": "b0fc83f0-17bc-00fb-88a2-0e24e3777297",
     "website": "11-431j-real-estate-finance-and-investment-fall-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

@@ -4,6 +4,8 @@ description: 'Case Assignment 3: One Lincoln Street.'
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/2c49789596ca71e885d2747c0e59090c_case3.pdf
 file_size: 203209
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
