@@ -5,8 +5,6 @@ description: Lecture slides about real estate cash flow pro formas and opportuni
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/9baf67be4ac341dec340b1f19a1c0c31_lec5_7.pdf
 file_size: 200856
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

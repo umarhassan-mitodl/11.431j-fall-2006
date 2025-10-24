@@ -4,8 +4,6 @@ description: Lecture slides about mortgage basics, payments, yields, and values.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/49edad33af6bcccb7936e1485598619a_lec13.pdf
 file_size: 280779
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

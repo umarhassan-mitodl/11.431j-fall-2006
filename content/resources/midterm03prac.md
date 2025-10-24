@@ -4,8 +4,6 @@ description: Practice Midterm Exam from 2003.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/0f4dc484ae528c6f9a47765a82453a7f_midterm03prac.pdf
 file_size: 207885
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

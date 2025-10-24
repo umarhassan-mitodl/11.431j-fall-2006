@@ -4,8 +4,6 @@ description: 'Case Assignment 1: Private Practice I.'
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/a2720e7959115a29af80804b52d1235f_case1.pdf
 file_size: 114319
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

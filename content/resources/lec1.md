@@ -4,8 +4,6 @@ description: Lecture slides with the course introduction.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/da65fdb21dfd4e36dd3b5874527d880f_lec1.pdf
 file_size: 116322
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

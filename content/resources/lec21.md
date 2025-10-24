@@ -4,8 +4,6 @@ description: Lecture notes about capital structure.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/074132b58798fbeb4562815dc1165356_lec21.pdf
 file_size: 195337
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

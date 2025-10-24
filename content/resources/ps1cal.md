@@ -5,8 +5,6 @@ description: Calculator steps for Chapter 8 Study Questions Answer from Problem 
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/f3b1d95b136f20b5ed82e62f2dfdc3f6_ps1cal.pdf
 file_size: 98641
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture slides about leverage and the use of debt.
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/cdfa78ad7f6d75feec6392cf229cde0b_lec7.pdf
 file_size: 188929
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
